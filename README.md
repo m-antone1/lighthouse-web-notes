@@ -4,4 +4,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Mike for the lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Mike](https://github.com/m-antone1) for the [Lighthouse](https://lighthouselabs.ca) Labs Web Development Bootcamp.
